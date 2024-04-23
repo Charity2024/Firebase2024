@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334588874935",
+    "project_id": "fir-jan2024-6969d",
+    "storage_bucket": "fir-jan2024-6969d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334588874935:android:03f4df6e90131c9daf7d32",
+        "android_client_info": {
+          "package_name": "com.charity.firebasejan2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUc7swwyEw5TuDk0smbZemV7Apm-y190"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
